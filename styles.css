@@ -1,0 +1,106 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+/* Header */
+
+h1 {
+    text-align: center;
+}
+
+/* Colours Section */
+
+.first-color {
+    background-color: #f7f7f7;
+    color: black;
+}
+
+.second-color {
+    background-color: #393e46;
+}
+
+.third-color {
+    background-color: #5c636e;
+}
+
+.fourth-color {
+    background-color: #f8b500;
+}
+
+section {
+    text-align: center;
+    border: 2px solid white;
+}
+
+.colours div {
+    padding: 50px 25px;
+    margin: 50px;
+    width: 150px;
+    text-align: center;
+    display: inline-block;
+}
+
+img {
+    width: 200px;
+    position: absolute;
+    top: 87px;
+    left: 11px;
+}
+
+/* Fonts Section */
+
+.fonts h2 {
+    text-decoration: underline;
+}
+
+.amatic {
+    font-family: "Amatic SC", sans-serif;
+}
+
+.lobster2 {
+    font-family: "Lobster Two", sans-serif;
+}
+
+.comic-neue {
+    font-family: "Comic Neue", sans-serif;
+}
+
+.fonts div {
+    text-align: center;
+    display: inline-block;
+    margin: 20px 50px;
+    font-size: larger;
+}
+
+.fonts h2 {
+    text-transform: capitalize;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italics {
+    font-style: italic;
+}
+
+/* Text-Styles Section */
+
+ul {
+    list-style: none;
+}
+
+.heading {
+    font-size: 26px;
+}
+
+.subheading{
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.para {
+    font-weight: 400;
+    font-size: 14px;
+}
